@@ -1,4 +1,3 @@
-package com.comtop.lcam.fwms.dataqualitycontrol.common.util;
 
 import java.beans.PropertyDescriptor;
 import java.lang.reflect.Method;
